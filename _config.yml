@@ -1,0 +1,14 @@
+layout_spectrum: 0.9226455711759627
+typography_spectrum: 0.3876104839146137
+color:
+  brandStrength: 0.7496269666589797
+  lightness: 0.728743388550356
+  saturation: 0.19457899685949087
+  rhythmicContrast: 0.2041905557271093
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Hello World
